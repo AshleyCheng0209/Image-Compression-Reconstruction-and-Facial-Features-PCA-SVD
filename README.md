@@ -12,7 +12,7 @@ This project utilizes the famous **Lenna** image and facial datasets to conduct 
 
 ## 🚀 Pipeline & Experimental Workflow
 
-1. **SVD Rank-$q$ Approximation**: Applying singular value decomposition to image matrices to retain dominant singular values and achieve target compression ratios.
+1. **SVD Rank-*q* Approximation**: Applying singular value decomposition to image matrices to retain dominant singular values and achieve target compression ratios.
 2. **Matrix Reorganization (Arrangements)**: Experimenting with different structural arrangements of image matrix $X$ prior to compression to determine optimal restoration fidelity.
 3. **Patch Cutting & Reassembly**: Segmenting images into distinct patch sizes, analyzing localized spatial correlations, and studying reconstruction quality.
 4. **Facial Feature Encryption / Decryption**: Investigating transformation effects on facial versus non-facial images, and evaluating cross-domain security and encryption feasibility.
