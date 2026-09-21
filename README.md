@@ -5,8 +5,8 @@ An exploratory data science and image processing project investigating Principal
 ## 📌 Project Overview
 
 This project utilizes the famous **Lenna** image and facial datasets to conduct comprehensive experiments on matrix approximations and feature transformations. Key objectives include:
-* **Image Compression & Reconstruction**: Implementing SVD-based rank-$q$ approximation to compress and restore images while maintaining high quality.
-* **Matrix Reorganization Analysis**: Comparing different matrix rearrangement arrangements before rank-$q$ approximation under identical compression ratios to observe and explain restoration quality.
+* **Image Compression & Reconstruction**: Implementing SVD-based rank-*q* approximation to compress and restore images while maintaining high quality.
+* **Matrix Reorganization Analysis**: Comparing different matrix rearrangement arrangements before rank-*q* approximation under identical compression ratios to observe and explain restoration quality.
 * **Patch-Based Processing**: Cutting and reassembling images with various patch sizes to evaluate digital image compression and generation behaviors.
 * **Encryption & Decryption Effects**: Analyzing the effectiveness of face vs. non-face encryption/decryption, and testing the feasibility of using facial features to encrypt non-face images.
 
