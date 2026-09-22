@@ -22,3 +22,11 @@ This project utilizes the famous **Lenna** image and facial datasets to conduct 
 * **Language**: Python
 * **Libraries**: `NumPy`, `SciPy`, `Matplotlib`, `Scikit-Learn`
 * **Data Sources**: Lenna Image Standard Test Dataset, Facial and Non-Facial Image Datasets.
+
+## 📥 Dataset Setup
+
+Due to GitHub's file size limits, large dataset files (such as `mnist-original.mat` and `allFaces.mat`) are not included directly in this repository. 
+
+* **Lenna Image**: Standard built-in test image.
+* **MNIST Original (`mnist-original.mat`)**: [Download from Kaggle](https://www.kaggle.com/datasets/avnishnish/mnist-original/versions/1?resource=download)
+* **Facial Datasets (`allFaces.mat`)**: [Download from Kaggle (ORL Face Dataset)](https://www.kaggle.com/datasets/felix0613/allface)
